@@ -1,0 +1,7 @@
+Requirement already up-to-date: torchvision in /usr/local/lib/python3.6/dist-packages (0.8.1+cu101)
+Requirement already satisfied, skipping upgrade: pillow>=4.1.1 in /usr/local/lib/python3.6/dist-packages (from torchvision) (7.0.0)
+Requirement already satisfied, skipping upgrade: torch==1.7.0 in /usr/local/lib/python3.6/dist-packages (from torchvision) (1.7.0)
+Requirement already satisfied, skipping upgrade: numpy in /usr/local/lib/python3.6/dist-packages (from torchvision) (1.18.5)
+Requirement already satisfied, skipping upgrade: dataclasses in /usr/local/lib/python3.6/dist-packages (from torch==1.7.0->torchvision) (0.7)
+Requirement already satisfied, skipping upgrade: future in /usr/local/lib/python3.6/dist-packages (from torch==1.7.0->torchvision) (0.16.0)
+Requirement already satisfied, skipping upgrade: typing-extensions in /usr/local/lib/python3.6/dist-packages (from torch==1.7.0->torchvision) (3.7.4.3)
